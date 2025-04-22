@@ -65,7 +65,7 @@ const handleRetry = ()=> {
 }
 
   return (
-    <div>
+    <div className='header'>
          <h1>G9 Quiz App</h1>
       {showScore ? (
         <div>
