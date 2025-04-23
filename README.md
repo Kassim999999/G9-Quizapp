@@ -20,9 +20,7 @@ Test your knowledge track your score, and retry as much as you want!
 
 🛠 Tech Stack
 React 18+
-
 Fetch API
-
 HTML/CSS (inline + basic styles)
 
 🚀 Installation
