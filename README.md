@@ -1,4 +1,5 @@
 G9 Quiz App 🎯
+
 This project is deployed and functioning in the URL:
 
 A fast, fun, and dynamic quiz application built with React and powered by Open Trivia Database API.
