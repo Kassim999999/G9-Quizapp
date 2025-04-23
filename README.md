@@ -1,12 +1,90 @@
-# React + Vite
+G9 Quiz App 🎯
+This project is deployed and functioning in the URL:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fast, fun, and dynamic quiz application built with React and powered by Open Trivia Database API.
+Test your knowledge track your score, and retry as much as you want!
 
-Currently, two official plugins are available:
+✨ Features
+🔥 Fetches real-time quiz questions from Open Trivia DB.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Immediate feedback by tracking correct answers.
 
-## Expanding the ESLint configuration
+➡️ Navigate freely between questions (Next/Previous).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔄 Option to retry the entire quiz.
+
+🎨 Highlights the selected answers.
+
+🧹 Clean and simple UI for an intuitive experience.
+
+🛠 Tech Stack
+React 18+
+
+Fetch API
+
+HTML/CSS (inline + basic styles)
+
+🚀 Installation
+Clone the Repository:
+
+bash
+Copy
+Edit
+git clone: https://github.com/Kassim999999/G9-Quizapp
+Navigate to the Project Directory:
+
+bash
+Copy
+Edit
+cd g9-quiz-app
+Install Dependencies:
+
+bash
+Copy
+Edit
+npm install
+Run the Application:
+
+bash
+Copy
+Edit
+npm start/ npm run dev
+Open http://localhost:3000 or http://localhost:5173/ to view it in your browser!
+
+📖 How to Use
+Start Quiz:
+As soon as the app loads, it automatically fetches 5 new questions from Open Trivia DB.
+
+Answer Questions:
+
+Click on one of the answer options to select your answer.
+
+You’ll automatically move to the next question.
+
+The app tracks your score in the background.
+
+Navigate:
+
+Use the "Previous" and "Next" buttons to move between questions.
+
+Selected answers are highlighted.
+
+View Score:
+
+After answering all questions, your final score is displayed.
+
+Click "Retry" to start over!
+
+📂 Project Structure
+/src
+  ├── components/
+  │    ├── Quiz.jsx         // Handles main quiz logic
+  │    └── AnswerSection.jsx // Displays and manages answer choices
+  ├── App.jsx                // Root component
+  ├── index.js               // Entry point
+
+
+🙏 Acknowledgements
+Thanks to Open Trivia Database for providing free quiz content!
+and to the developers NYIKA ROONEY,	Koech Oliver,	Munene Christopher and Mbogo Samuel.
+ 
