@@ -1,29 +1,31 @@
-G9 Quiz App 🎯
+G9 Quiz App 
 
-This project is deployed and functioning in the URL:
+This project is deployed and functioning in the URL: https://g9-quizapp.vercel.app/
 
 A fast, fun, and dynamic quiz application built with React and powered by Open Trivia Database API.
 Test your knowledge track your score, and retry as much as you want!
 
-✨ Features
-🔥 Fetches real-time quiz questions from Open Trivia DB.
++ Features
+  
+* Fetches real-time quiz questions from Open Trivia DB.
 
-✅ Immediate feedback by tracking correct answers.
+* Immediate feedback by tracking correct answers.
 
-➡️ Navigate freely between questions (Next/Previous).
+ *Navigate freely between questions (Next/Previous).
 
-🔄 Option to retry the entire quiz.
+* Option to retry the entire quiz.
 
-🎨 Highlights the selected answers.
+* Highlights the selected answers.
 
-🧹 Clean and simple UI for an intuitive experience.
+* Clean and simple UI for an intuitive experience.
 
-🛠 Tech Stack
+ Tech Stack
+ 
 React 18+
 Fetch API
-HTML/CSS (inline + basic styles)
+HTML/CSS 
 
-🚀 Installation
+ Installation
 Clone the Repository:
 
 bash
@@ -50,8 +52,11 @@ Edit
 npm start/ npm run dev
 Open http://localhost:3000 or http://localhost:5173/ to view it in your browser!
 
-📖 How to Use
+HOW TO USE THE APP:
+
+ 
 Start Quiz:
+
 As soon as the app loads, it automatically fetches 5 new questions from Open Trivia DB.
 
 Answer Questions:
@@ -74,7 +79,7 @@ After answering all questions, your final score is displayed.
 
 Click "Retry" to start over!
 
-📂 Project Structure
++Project Structure
 /src
   ├── components/
   │    ├── Quiz.jsx         // Handles main quiz logic
@@ -83,7 +88,7 @@ Click "Retry" to start over!
   ├── index.js               // Entry point
 
 
-🙏 Acknowledgements
+Acknowledgements
 Thanks to Open Trivia Database for providing free quiz content!
 and to the developers NYIKA ROONEY,	Koech Oliver,	Munene Christopher and Mbogo Samuel.
  
