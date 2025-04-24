@@ -6,11 +6,12 @@ A fast, fun, and dynamic quiz application built with React and powered by Open T
 Test your knowledge track your score, and retry as much as you want!
 
 + Features
+  
 * Fetches real-time quiz questions from Open Trivia DB.
 
 * Immediate feedback by tracking correct answers.
 
-*Navigate freely between questions (Next/Previous).
+ *Navigate freely between questions (Next/Previous).
 
 * Option to retry the entire quiz.
 
@@ -19,6 +20,7 @@ Test your knowledge track your score, and retry as much as you want!
 * Clean and simple UI for an intuitive experience.
 
  Tech Stack
+ 
 React 18+
 Fetch API
 HTML/CSS 
