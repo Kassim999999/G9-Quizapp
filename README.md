@@ -52,8 +52,11 @@ Edit
 npm start/ npm run dev
 Open http://localhost:3000 or http://localhost:5173/ to view it in your browser!
 
- How to Use
+HOW TO USE THE APP:
+
+ 
 Start Quiz:
+
 As soon as the app loads, it automatically fetches 5 new questions from Open Trivia DB.
 
 Answer Questions:
